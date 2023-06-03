@@ -21,6 +21,6 @@
   "homepage": "https://github.com/yogeshwaran01/github-stats-terminal-style#readme",
   "dependencies": {
     "@octokit/rest": "^18.10.0",
-    "nunjucks": "^3.2.3"
+    "nunjucks": "^3.2.4"
   }
 }
